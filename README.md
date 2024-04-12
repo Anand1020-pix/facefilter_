@@ -1,4 +1,4 @@
-# Face Filters
+# Face Filter
 
 This repository contains a face tracking and filtering application using TensorFlow.js and the Face Landmarks Detection model. The application captures webcam video, detects facial landmarks, and applies filters to the face in real time. It also allows users to take and view captured photos with filters.
 
